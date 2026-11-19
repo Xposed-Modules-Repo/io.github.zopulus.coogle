@@ -24,7 +24,7 @@
 
 部分代码参考 [ONextBox](https://github.com/MiToverG422/ONextBox) 和 [LuckyTool](https://github.com/luckyzyx/LuckyTool)。
 
-UI 参考 [KernelSU](https://github.com/tiann/KernelSU) 和 [LSPosed](https://github.com/LSPosed/LSPosed)。
+UI 设计参考 [KernelSU](https://github.com/tiann/KernelSU) 和 [LSPosed](https://github.com/LSPosed/LSPosed)，COUI 风格界面使用 [COUI](https://github.com/suqi8/coui) 组件库。
 
 感谢以上项目的开发者与贡献者。
 
